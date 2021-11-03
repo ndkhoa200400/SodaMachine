@@ -1,0 +1,14 @@
+momotest\sodamachine\Promotion.class
+momotest\sodamachine\SodaMachine$1.class
+momotest\sodamachine\Product.class
+momotest\sodamachine\Pair.class
+momotest\sodamachine\ChanceGetFreePromotion.class
+momotest\sodamachine\SodaMachine.class
+momotest\sodamachine\SoldOutException.class
+momotest\sodamachine\NotFoundProductExpcetion.class
+momotest\sodamachine\NotFullPaidException.class
+momotest\sodamachine\client.class
+momotest\sodamachine\Inventory.class
+momotest\sodamachine\NotSufficientChangeException.class
+momotest\sodamachine\Cash.class
+momotest\sodamachine\NotSelectedProductExpcetion.class
